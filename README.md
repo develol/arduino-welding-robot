@@ -14,12 +14,6 @@
 
 ## Pictures
 <p align="center">
-  <img src="images/interface.jpg" width="50%" />
-  <br />
-  Hardware interface
-  <br />
-  <br />
-  <img src="images/welding.jpg" width="50%" />
-  <br />
-  Welding process
+  <img src="images/interface.jpg" width="45%" />
+  <img src="images/welding.jpg" width="45%" />
 </p>
