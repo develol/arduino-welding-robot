@@ -16,4 +16,6 @@
 <p align="center">
   <img src="images/interface.jpg" width="45%" />
   <img src="images/welding.jpg" width="45%" />
+  <br />
+  Device image and work image
 </p>
